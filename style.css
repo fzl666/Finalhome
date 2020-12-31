@@ -23,9 +23,12 @@ html, body{
     font-size: 20px;
     color: rgb(0, 66, 66);
 }
-.icon{
+#icon{
+    border:none;
+    background: none;
     color: white;
     position: absolute;
     margin-left: 5px;
     margin-top: 3px;
 }
+
