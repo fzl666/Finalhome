@@ -8,11 +8,6 @@
     <title>天 堂</title>   
   </head>
   <body>
-   
-
-    
- 
-    <div id="pano">
       <button id="icon" onclick="myFunction()">
       <i class="fa fa-bars"></i>
       </button>
@@ -32,12 +27,14 @@
     <button class="btn" id="btn12">卧室</button>
     <button class="btn" id="btn13">浴室</button>
     </div>
-    </div>
-    
-    
+    <embed src="img/SongforRamanujan.mp3" loop="true" autostart="true" style="visibility: hidden; display: inline; position: absolute;">
+    <model-viewer id="zoom" camera-controls src="">
+    </model-viewer>
    
 </body>
  <script src="js/three.min.js"></script>
   <script src="js/panolens.min.js"></script>
+  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+<script nomodule src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
   <script src="js/script.js"></script>
 </html>
