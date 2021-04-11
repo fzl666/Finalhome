@@ -1,5 +1,5 @@
 ## FinalHome
-(Parcial code due to limite space in github repository)
+(The code held in this repository is parcial due to limited space)
 
 [Check out the final outcome here](https://fzllab.com/finalhome/)
 
