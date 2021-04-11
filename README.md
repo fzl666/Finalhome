@@ -1,4 +1,11 @@
-## 未来之家
+## FinalHome
+(Parcial code due to limite space in github repository)
 
-# Art project
+[Check out the final outcome here](https://fzllab.com/finalhome/)
+
+# Library used:
+- Panolens.js
+- <model-viewer>
+
+
 
