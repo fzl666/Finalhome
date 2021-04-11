@@ -5,7 +5,7 @@
 
 # Library used:
 - Panolens.js
-- <model-viewer>
+- model-viewer
 
 
 
